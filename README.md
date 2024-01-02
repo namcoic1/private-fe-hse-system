@@ -8,7 +8,13 @@ Technologies:
 
 ====================
 
+Deployment: Azure App Service
+
+====================
+
 Key Features:
 - Manage hospital users, hospital services, hospital criteria of services, list of evaluation answers and patient's opinions.
 - Statistics, display of data from evaluation results, opinions from patients, comparison of items in two hospital services.
 - Setting system information, view user log.
+
+====================
